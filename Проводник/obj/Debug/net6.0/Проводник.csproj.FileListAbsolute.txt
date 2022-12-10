@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\bin\Debug\net6.0\Проводник.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\bin\Debug\net6.0\Проводник.deps.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\bin\Debug\net6.0\Проводник.runtimeconfig.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\bin\Debug\net6.0\Проводник.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\bin\Debug\net6.0\Проводник.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.AssemblyInfo.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\refint\Проводник.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\Проводник.genruntimeconfig.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Проводник\Проводник\obj\Debug\net6.0\ref\Проводник.dll
